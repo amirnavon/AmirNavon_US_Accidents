@@ -18,6 +18,7 @@ autoviz = "^0.1.905"
 xgboost = "~1.6"
 missingno = "^0.5.2"
 fancyimpute = "^0.7.0"
+imblearn = "^0.0"
 
 
 [build-system]
