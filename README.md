@@ -48,6 +48,6 @@ Beneficiaries
 •	City Planners: To guide infrastructure improvements and safety measures.
 •	Public Safety Agencies: For targeted safety interventions and overall traffic safety enhancement.
 #### Dataset
-Available on Kaggle: US Accidents Dataset
+Available on Kaggle: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
 
